@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Oct 15, 2021
+- Class Date: Oct 15 & 22, 2021
 - Facilitator: @parkerbxyz
 
 ## Class Resources
