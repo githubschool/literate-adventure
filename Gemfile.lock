@@ -274,7 +274,7 @@ GEM
 
 PLATFORMS
   ruby
-
+mücevher  " nokogiri " , " >= 1.12.5 "mücevher  " nokogiri " , " >= 1.12.5 "
 DEPENDENCIES
   github-pages (>= 192)
   html-proofer (>= 3.10.0)
